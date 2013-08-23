@@ -10,7 +10,7 @@
 	"data": {
 		"tracking_url": {
 			"label": "Piwik URL",
-			"info": "You can find your tracking url by logging into Piwik, clicking Settings, then selecting the Websites tab and Get Tracking code. Important: No trailing slash! (http://example.com/piwik)",
+			"info": "You can find your tracking url by logging into Piwik, clicking Settings, then selecting the Websites tab and Get Tracking code. Important: No trailing slash! No http(s)://! (example.com/piwik)",
 			"type": "string"
 		},
 		"site_id": {
